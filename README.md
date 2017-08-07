@@ -15,6 +15,9 @@ Course website:
 
 ## Update
 
+* **08/06/2017**
+Finished unit4 and passed partA exam on Coursera
+
 * **05/03/2017**
 Finished unit3
 
